@@ -1,0 +1,4 @@
+1.导入数据库listening.sql文件
+2.改application.yml里的数据库账号和密码
+src/main/resources/application.yml
+3.加载pom.xml里的maven依赖
